@@ -1,7 +1,7 @@
 {
     "type": "ForceProjector",
     "health": 1800,
-    "shieldHealth": 15000,
+    "shieldHealth": 19000,
     "size": 5,
     "sides": 12,
     "liquidCapacity": 40,

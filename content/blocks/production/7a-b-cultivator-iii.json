@@ -9,11 +9,11 @@
       "phase-fabric/150"
     ],
     "outputItem": "spore-pod/15",
-    "craftTime": 90,
+    "craftTime": 60,
     "size": 4,
     "liquidCapacity":100,
     "hasLiquids": true,
-    "itemCapacity": 30,
+    "itemCapacity": 40,
     "hasPower": true,
     "hasItems": true,
     "craftEffect": "none",

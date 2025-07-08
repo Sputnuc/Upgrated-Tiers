@@ -29,14 +29,10 @@
 		"power": 2,
 		"items": {
 			"items": [
-                "pyratite/5",
-                "spore-pod/4"                        
+                "pyratite/6",
+                "spore-pod/6"                        
  			]
-	  },
-      "liquid": {
-        "liquid": "oil",
-        "amount": 0.15
-    }
+	  }
                 }
               ,
 	"requirements": [

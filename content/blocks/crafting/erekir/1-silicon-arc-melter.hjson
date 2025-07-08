@@ -1,0 +1,48 @@
+type: HeatCrafter
+squareSprite: false
+size: 5
+heatRequirement: 10
+hasLiquids: true
+liquidCapacity: 40
+drawer: {
+    type: DrawMulti
+    drawers: [
+        {
+            type: DrawRegion
+            suffix: -bottom
+        }
+        {
+            type: DrawArcSmelt
+        }
+        {
+            type: DrawDefault
+        }]
+
+}
+hasPower: true
+hasItems: true
+itemCapacity: 90
+craftTime: 150
+craftEffect: smeltsmoke
+consumes: {
+    power: 10
+    items: {
+        items: [
+         graphite/8
+         sand/30
+        ]
+    }
+   liquids: [
+    nitrogen/0.25
+   ]
+}
+requirements: [
+beryllium/250
+graphite/275
+silicon/200
+tungsten/110
+oxide/75
+]
+category: crafting
+research:  silicon-arc-furnace
+outputItem: silicon/32

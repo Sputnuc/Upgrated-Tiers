@@ -3,7 +3,7 @@
     "size": 4,
     "researchCostMultiplier": 0.5,
     "health": 2500,
-    "itemCapacity": 4000,
+    "itemCapacity": 7000,
     "research": {
         "parent": "vault",
         "objectives": [

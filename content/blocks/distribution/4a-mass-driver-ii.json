@@ -3,12 +3,12 @@
   "size": 4, 
   "itemCapacity": 300,
   "range":800,
-  "reload": 500,
+  "reload": 360,
   "hasPower":true,
   "consumes": {"power": 5,
   "liquid": {
     "liquid": "cryofluid",
-    "amount": 0.2
+    "amount": 0.1
   }
 },
   "requirements": [

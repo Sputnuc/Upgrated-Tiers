@@ -8,7 +8,7 @@
     "explodeEffect": "impactReactorExplosion",
     "explodeSound": "explosionbig",
 
-    "powerProduction": 500,
+    "powerProduction": 730,
     "itemCapacity": 30,
     "liquidCapacity": 40,
     "explosionRadius": 50,

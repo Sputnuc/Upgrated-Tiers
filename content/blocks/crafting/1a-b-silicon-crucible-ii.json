@@ -30,8 +30,8 @@
 		"power": 8,
 		"items": {
 			"items": [
-                "graphite/7",
-                "sand/15", 
+                "graphite/10",
+                "sand/20", 
                 "pyratite/4"            
  			]
 	}
@@ -45,5 +45,5 @@
 	],
 	"category": "crafting",
 	"research":  "silicon-crucible",
-	"outputItem": "silicon/20"
+	"outputItem": "silicon/24"
 }

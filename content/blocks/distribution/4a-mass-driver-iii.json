@@ -1,16 +1,16 @@
 {	
   "type": "MassDriver",
   "size": 5, 
-  "itemCapacity": 600,
+  "itemCapacity": 740,
   "range": 1300,
-  "reload": 650,
+  "reload": 420,
   "bulletLifetime": 500,
   "bulletSpeed": 10,
   "hasPower":true,
   "consumes": {"power": 11,
   "liquid": {
     "liquid": "cryofluid",
-    "amount": 0.5
+    "amount": 0.25
   }
 },
   "requirements": [

@@ -32,8 +32,8 @@
                "silicon/14",
                "titanium/14",
                "thorium/16",
-               "graphite/16",
-               "blast-compound/5"  
+               "graphite/12",
+               "blast-compound/4"  
 			]
 		},
        "liquid": {
@@ -57,5 +57,5 @@
           "desolateRift"
         ]
       },
-	"outputItem": "surge-alloy/18"
+	"outputItem": "surge-alloy/21"
 }

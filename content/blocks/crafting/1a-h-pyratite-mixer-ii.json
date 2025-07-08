@@ -33,11 +33,7 @@
                 "lead/6",
                 "coal/4"            
  			]
-	  },
-      "liquid": {
-        "liquid": "oil",
-        "amount": 0.1
-    }
+	  }
                 }
 	 ,
 	"requirements": [

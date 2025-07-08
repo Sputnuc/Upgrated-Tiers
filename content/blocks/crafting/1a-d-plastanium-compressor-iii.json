@@ -23,7 +23,7 @@
 "hasPower": true,
 	"hasItems": true,
 	"itemCapacity": 60,
-        "liquidCapacity": 80,
+        "liquidCapacity": 85,
 	"craftTime": 240,
 	"craftEffect": "formsmoke",
 	"updateEffect": "plasticburn",
@@ -31,7 +31,7 @@
 		"power": 9,
 		"items": {
 			"items": [
-               "titanium/15",
+               "titanium/20",
                "spore-pod/15"
 			]
 		},
@@ -51,5 +51,5 @@
 	],
 	"category": "crafting",
 	"research": "1a-d-plastanium-compressor-ii",
-	"outputItem": "plastanium/20"
+	"outputItem": "plastanium/36"
 }

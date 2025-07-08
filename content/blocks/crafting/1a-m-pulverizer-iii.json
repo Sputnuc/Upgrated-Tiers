@@ -27,9 +27,9 @@
         "hasPower": true,
         "hasLiquids":true,
 	"hasItems": true,
-	"itemCapacity": 30,
+	"itemCapacity": 60,
         "liquidCapacity": 35,
-	"craftTime": 90,
+	"craftTime": 60,
 	"craftEffect": "pulverize",
 	"updateEffect": "pulverizeSmall",
     "ambientSound": "grinding",
@@ -38,7 +38,7 @@
 		"power": 3.5,
 		"items": {
 			"items": [
-               "scrap/12"
+               "scrap/10"
 			]
 		},
        "liquid": {
@@ -54,5 +54,5 @@
 	],
 	"category": "crafting",
 	"research": "1a-m-pulverizer-ii",
-	"outputItem": "sand/15"
+	"outputItem": "sand/20"
 }

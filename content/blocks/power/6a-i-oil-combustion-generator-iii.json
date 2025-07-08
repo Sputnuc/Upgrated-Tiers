@@ -2,7 +2,7 @@
     "type": "ConsumeGenerator",
     "size": 4,
     "hasPower": true,
-    "powerProduction": 18,
+    "powerProduction": 36,
     "ambientSound": "steam",
     "generateEffect":{
       "type": "RadialEffect",

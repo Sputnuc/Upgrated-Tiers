@@ -7,7 +7,7 @@
 "ambientSound": "steam",
 "itemCapacity": 35,
 "generateEffect":"generatespark",
-"itemDuration": 30,
+"itemDuration": 110,
 "drawer": {
   "type": "DrawMulti",
   "drawers": [
@@ -31,7 +31,7 @@
   "itemFlammable": {},
   "liquid": {
     "liquid": "cryofluid",
-    "amount": 0.4
+    "amount": 0.2
 }
 },
 "category": "power",
