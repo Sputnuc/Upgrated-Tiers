@@ -11,7 +11,7 @@
 		"power": 3,
 		"items": {
 			"items": [
-               "spore-pod/3"          
+               "spore-pod/2"          
  			]
 		},
            "liquid": {
@@ -28,5 +28,5 @@
 	],
 	"category": "crafting",
 	"research": "1a-n-coal-centrifuge-ii",
-	"outputItem": "coal/20"
+	"outputItem": "coal/25"
 }
