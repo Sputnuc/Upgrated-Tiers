@@ -30,8 +30,9 @@
 		"power": 3,
 		"items": {
 			"items": [
-               "sand/6",
-               "lead/8"
+               "sand/4",
+               "lead/5",
+               "pyratite/1"
 			]
 		}
 	},

@@ -29,13 +29,16 @@
 		"power": 1.5,
 		"items": {
 			"items": [
-                "sand/6",
-                "lead/6",
-                "coal/4"            
+                "sand/5",
+                "lead/5",
+                "coal/3"            
  			]
-	  }
+	  },
+      "liquid": {
+        "liquid": "oil",
+        "amount": 0.1
                 }
-	 ,
+              },
 	"requirements": [
         "lead/100",
         "titanium/75",

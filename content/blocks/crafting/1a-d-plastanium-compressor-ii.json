@@ -24,11 +24,12 @@
 		"items": {
 			"items": [
                "titanium/13",
+							 "spore-pod/6"
 			]
 		},
        "liquid": {
 			"liquid": "oil",
-			"amount": 0.6
+			"amount": 0.25
 		}
 	},
 	"requirements": [

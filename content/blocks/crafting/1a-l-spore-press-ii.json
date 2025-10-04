@@ -30,7 +30,7 @@
 	"hasPower": true,
 	"hasItems": true,
   "hasLiquids":true,
-    "liquidCapacity": 40,
+    "liquidCapacity": 200,
 	"itemCapacity": 20,
 	"craftTime": 40,
 	"outputsLiquid": true,
@@ -50,5 +50,5 @@
 	],
 	"category": "crafting",
 	"research": "spore-press",
-	"outputLiquid": "oil/0.6"
+	"outputLiquid": "oil/1.0"
 }

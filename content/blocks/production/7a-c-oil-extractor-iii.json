@@ -49,12 +49,12 @@
       "power": 15,
       "items": {
         "items": [
-          {"item": "sand", "amount": 8}
+          {"item": "sand", "amount": 5}
         ]
       },
       "liquid": {
         "liquid": "water",
-        "amount": 1.2
+        "amount": 0.7
       }
     },
     "category": "production",

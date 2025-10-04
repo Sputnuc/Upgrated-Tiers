@@ -4,14 +4,14 @@
 	"hasPower": true,
 	"hasItems": true,
 	"itemCapacity": 60,
-        "liquidCapacity": 30,
+  "liquidCapacity": 60,
 	"craftTime": 65,
 	"craftEffect": "smokeCloud",
 	"consumes": {
 		"power": 3,
 		"items": {
 			"items": [
-               "spore-pod/5"          
+               "spore-pod/2"          
  			]
 		},
            "liquid": {
@@ -28,5 +28,5 @@
 	],
 	"category": "crafting",
 	"research": "1a-n-coal-centrifuge-ii",
-	"outputItem": "coal/15"
+	"outputItem": "coal/25"
 }

@@ -32,7 +32,7 @@
 			"items": [
                 "graphite/10",
                 "sand/20", 
-                "pyratite/4"            
+                "pyratite/3"            
  			]
 	}
 	},
@@ -45,5 +45,5 @@
 	],
 	"category": "crafting",
 	"research":  "silicon-crucible",
-	"outputItem": "silicon/24"
+	"outputItem": "silicon/28"
 }
