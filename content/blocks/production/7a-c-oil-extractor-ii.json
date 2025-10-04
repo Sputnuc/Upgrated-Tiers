@@ -1,7 +1,7 @@
 {
     "type": "AttributeCrafter",
     "health": 590,
-    "outputLiquid": "oil/0.6",
+    "outputLiquid": "oil/0.8",
     "baseEfficiency": 0,
     "drawer": {
       "type": "DrawMulti",
@@ -40,7 +40,7 @@
     "minEfficiency": 0.1,
     "hasItems": true,
     "itemCapacity": 15,
-    "liquidCapacity": 50,
+    "liquidCapacity": 80,
     "attribute": "oil",
     "boostScale": 0.0625,
     "maxBoost": 1.5,
