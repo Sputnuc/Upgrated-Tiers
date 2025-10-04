@@ -30,9 +30,13 @@
 		"items": {
 			"items": [
                 "pyratite/6",
-                "spore-pod/6"                        
+                "spore-pod/3"                        
  			]
-	  }
+	  },
+    "liquid": {
+        "liquid": "oil",
+        "amount": 0.2
+    }
                 }
               ,
 	"requirements": [
