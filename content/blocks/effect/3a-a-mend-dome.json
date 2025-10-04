@@ -8,8 +8,9 @@
 "healPercent": 19,
 "itemCapacity": 15,
 "hasPower": true,
-"phaseBoost": 10,
-"phaseRangeBoost": 70,
+"hasBoost": false,
+"phaseBoost": 0,
+"phaseRangeBoost": 0,
 "consumes": {
 	"power": 6.8,
 	"items": {
@@ -17,8 +18,8 @@
    "silicon/1",
    "phase-fabric/1"
 		],
-        "booster": true,
-        "optional": true
+        "booster": false,
+        "optional": false
 	}
 },
 "requirements": [
