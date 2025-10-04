@@ -4,7 +4,7 @@
 	"hasPower": true,
 	"hasItems": true,
 	"itemCapacity": 60,
-        "liquidCapacity": 30,
+  "liquidCapacity": 60,
 	"craftTime": 65,
 	"craftEffect": "smokeCloud",
 	"consumes": {
