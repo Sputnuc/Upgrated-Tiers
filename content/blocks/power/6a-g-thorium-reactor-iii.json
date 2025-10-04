@@ -10,12 +10,12 @@
     "explosionDamage": 6000,
 	"hasLiquids": true,
 	"powerProduction": 160,
-	"itemDuration": 300,
+	"itemDuration": 600,
 	"heating": 0.02,
 	"consumes": {
 			"items": [
-                "thorium/10"
-				"phase-fabric/2"
+                "thorium/8",
+				        "phase-fabric/1"
 			],
             "liquid": {
                 "liquid": "antifreeze",
