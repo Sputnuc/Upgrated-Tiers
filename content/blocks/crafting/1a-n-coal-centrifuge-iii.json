@@ -1,32 +1,29 @@
-{	
-    "type": "GenericCrafter",
-	"size": 4,
-	"hasPower": true,
-	"hasItems": true,
-	"itemCapacity": 60,
-  "liquidCapacity": 60,
-	"craftTime": 65,
-	"craftEffect": "smokeCloud",
-	"consumes": {
-		"power": 3,
-		"items": {
-			"items": [
-               "spore-pod/2"          
- 			]
-		},
-           "liquid": {
-			"liquid": "oil",
-			"amount": 0.5
-		}
-	},
-	"requirements": [
-        "lead/200",
-        "graphite/175",
-        "titanium/250",
-        "silicon/150",
-        "plastanium/120"
-	],
-	"category": "crafting",
-	"research": "1a-n-coal-centrifuge-ii",
-	"outputItem": "coal/25"
+{
+  "type": "GenericCrafter",
+  "size": 4,
+  "hasPower": true,
+  "hasItems": true,
+  "itemCapacity": 60,
+  "craftTime": 65,
+  "craftEffect": "smokeCloud",
+  "consumes": {
+    "power": 3,
+    "items": {
+      "items": ["spore-pod/2"]
+    },
+    "liquid": {
+      "liquid": "oil",
+      "amount": 0.5
+    }
+  },
+  "requirements": [
+    "lead/200",
+    "graphite/175",
+    "titanium/250",
+    "silicon/150",
+    "plastanium/120"
+  ],
+  "category": "crafting",
+  "research": "1a-n-coal-centrifuge-ii",
+  "outputItem": "coal/25"
 }

@@ -3,7 +3,6 @@ squareSprite: false
 size: 5
 heatRequirement: 10
 hasLiquids: true
-liquidCapacity: 40
 drawer: {
     type: DrawMulti
     drawers: [

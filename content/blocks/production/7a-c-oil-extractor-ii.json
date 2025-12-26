@@ -1,17 +1,17 @@
 {
-    "type": "AttributeCrafter",
-    "health": 590,
-    "outputLiquid": "oil/0.8",
-    "baseEfficiency": 0,
-    "drawer": {
-      "type": "DrawMulti",
-      "drawers": [
+  "type": "AttributeCrafter",
+  "health": 590,
+  "outputLiquid": "oil/0.8",
+  "baseEfficiency": 0,
+  "drawer": {
+    "type": "DrawMulti",
+    "drawers": [
       {
-      "type": "DrawDefault"   
+        "type": "DrawDefault"
       },
       {
-      "type": "DrawLiquidRegion",
-      "drawLiquid": "oil"
+        "type": "DrawLiquidRegion",
+        "drawLiquid": "oil"
       },
       {
         "type": "DrawRegion",
@@ -23,39 +23,36 @@
         "type": "DrawRegion",
         "suffix": "-top"
       }
-                 ]
-  
+    ]
   },
-    "size": 4,
-    "requirements": [
-      "silicon/175",
-      "titanium/180",
-      "lead/150",
-      "thorium/150",
-      "plastanium/100"
-    ],
-    "hasPower": true,
-    "craftTime":60,
-    "hasLiquids": true,
-    "minEfficiency": 0.1,
-    "hasItems": true,
-    "itemCapacity": 15,
-    "liquidCapacity": 80,
-    "attribute": "oil",
-    "boostScale": 0.0625,
-    "maxBoost": 1.5,
-    "consumes": {
-      "power": 6,
-      "items": {
-        "items": [
-          {"item": "sand", "amount": 3}
-        ]
-      },
-      "liquid": {
-        "liquid": "water",
-        "amount": 0.4
-      }
+  "size": 4,
+  "requirements": [
+    "silicon/175",
+    "titanium/180",
+    "lead/150",
+    "thorium/150",
+    "plastanium/100"
+  ],
+  "hasPower": true,
+  "craftTime": 60,
+  "hasLiquids": true,
+  "minEfficiency": 0.1,
+  "hasItems": true,
+  "itemCapacity": 15,
+  "attribute": "oil",
+  "boostScale": 0.0625,
+  "maxBoost": 1.5,
+  "liquidCapacity": 160,
+  "consumes": {
+    "power": 6,
+    "items": {
+      "items": [{ "item": "sand", "amount": 3 }]
     },
-    "category": "production",
-    "research": "oil-extractor"
-  }
+    "liquid": {
+      "liquid": "water",
+      "amount": 0.4
+    }
+  },
+  "category": "production",
+  "research": "oil-extractor"
+}
