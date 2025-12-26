@@ -1,37 +1,34 @@
 {
-    "type": "ForceProjector",
-    "health": 800,
-    "shieldHealth": 6000,
-    "size": 4,
-    "sides":8,
-    "shieldRotation":22.5,
-    "liquidCapacity": 30,
-    "itemCapacity": 20,
-    "hasPower": true,
-    "hasItems": true,
-    "hasLiquid": true,
-    "canOverdrive": true,
-    "phaseUseTime": 400,
-    "solid": true,
-    "radius": 200,
-    "cooldownNormal": 2,
-    "cooldownLiquid": 1,
-    "cooldownBrokenBase": 1.75,
-    "consumes": {
-      "power": 12,
-      "items": {
-        "items": [
-          "phase-fabric/1"
-        ],
-        "optional": false
-      }
-    },
-    "requirements": [
-      "titanium/650",
-      "silicon/600",
-      "plastanium/450",
-      "phase-fabric/400"
-    ],
-    "category": "effect",
-    "research": "force-projector"
-  }
+  "type": "ForceProjector",
+  "health": 800,
+  "shieldHealth": 6000,
+  "size": 4,
+  "sides": 8,
+  "shieldRotation": 22.5,
+  "itemCapacity": 20,
+  "hasPower": true,
+  "hasItems": true,
+  "hasLiquid": true,
+  "canOverdrive": true,
+  "phaseUseTime": 400,
+  "solid": true,
+  "radius": 200,
+  "cooldownNormal": 2,
+  "cooldownLiquid": 1,
+  "cooldownBrokenBase": 1.75,
+  "consumes": {
+    "power": 12,
+    "items": {
+      "items": ["phase-fabric/1"],
+      "optional": false
+    }
+  },
+  "requirements": [
+    "titanium/650",
+    "silicon/600",
+    "plastanium/450",
+    "phase-fabric/400"
+  ],
+  "category": "effect",
+  "research": "force-projector"
+}

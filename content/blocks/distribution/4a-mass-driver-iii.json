@@ -1,25 +1,26 @@
-{	
+{
   "type": "MassDriver",
-  "size": 5, 
+  "size": 5,
   "itemCapacity": 740,
   "range": 1300,
   "reload": 420,
   "bulletLifetime": 500,
   "bulletSpeed": 10,
-  "hasPower":true,
-  "consumes": {"power": 11,
-  "liquid": {
-    "liquid": "cryofluid",
-    "amount": 0.25
-  }
-},
+  "hasPower": true,
+  "consumes": {
+    "power": 11,
+    "liquid": {
+      "liquid": "cryofluid",
+      "amount": 0.25
+    }
+  },
   "requirements": [
-        "plastanium/380",
-        "surge-alloy/300",
-        "silicon/475",
-        "phase-fabric/300",
-        "thorium/450"
-	],
-	"category": "distribution",
-	"research": "4a-mass-driver-ii"
+    "plastanium/380",
+    "surge-alloy/300",
+    "silicon/475",
+    "phase-fabric/300",
+    "thorium/450"
+  ],
+  "category": "distribution",
+  "research": "4a-mass-driver-ii"
 }

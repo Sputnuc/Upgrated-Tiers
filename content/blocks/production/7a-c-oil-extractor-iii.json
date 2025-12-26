@@ -1,17 +1,17 @@
 {
-    "type": "AttributeCrafter",
-    "health": 900,
-    "outputLiquid": "oil/1.5",
-    "baseEfficiency": 0,
-    "drawer": {
-      "type": "DrawMulti",
-      "drawers": [
+  "type": "AttributeCrafter",
+  "health": 900,
+  "outputLiquid": "oil/1.5",
+  "baseEfficiency": 0,
+  "drawer": {
+    "type": "DrawMulti",
+    "drawers": [
       {
-      "type": "DrawDefault"   
+        "type": "DrawDefault"
       },
       {
-      "type": "DrawLiquidRegion",
-      "drawLiquid": "oil"
+        "type": "DrawLiquidRegion",
+        "drawLiquid": "oil"
       },
       {
         "type": "DrawRegion",
@@ -23,40 +23,37 @@
         "type": "DrawRegion",
         "suffix": "-top"
       }
-                 ]
-  
+    ]
   },
-    "size": 5,
-    "requirements": [
-      "silicon/375",
-      "titanium/300",
-      "lead/350",
-      "thorium/250",
-      "plastanium/150",
-      "surge-alloy/120"
-    ],
-    "hasPower": true,
-    "hasLiquids": true,
-    "hasItems": true,
-    "itemCapacity": 35,
-    "minEfficiency": 0.1,
-    "boostScale": 0.0401,
-    "craftTime":90,
-    "liquidCapacity": 70,
-    "maxBoost": 1.5,
-    "attribute": "oil",
-    "consumes": {
-      "power": 15,
-      "items": {
-        "items": [
-          {"item": "sand", "amount": 5}
-        ]
-      },
-      "liquid": {
-        "liquid": "water",
-        "amount": 0.7
-      }
+  "size": 5,
+  "requirements": [
+    "silicon/375",
+    "titanium/300",
+    "lead/350",
+    "thorium/250",
+    "plastanium/150",
+    "surge-alloy/120"
+  ],
+  "hasPower": true,
+  "hasLiquids": true,
+  "hasItems": true,
+  "itemCapacity": 35,
+  "minEfficiency": 0.1,
+  "boostScale": 0.0401,
+  "craftTime": 90,
+  "liquidCapacity": 300,
+  "maxBoost": 1.5,
+  "attribute": "oil",
+  "consumes": {
+    "power": 15,
+    "items": {
+      "items": [{ "item": "sand", "amount": 5 }]
     },
-    "category": "production",
-    "research": "7a-c-oil-extractor-ii"
-  }
+    "liquid": {
+      "liquid": "water",
+      "amount": 0.7
+    }
+  },
+  "category": "production",
+  "research": "7a-c-oil-extractor-ii"
+}

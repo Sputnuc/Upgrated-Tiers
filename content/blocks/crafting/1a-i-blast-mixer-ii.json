@@ -1,51 +1,40 @@
-{	
+{
   "type": "GenericCrafter",
   "size": 3,
-"drawer": {
+  "drawer": {
     "type": "DrawMulti",
     "drawers": [
-  {
-    "type": "DrawDefault"
+      {
+        "type": "DrawDefault"
+      },
+      {
+        "type": "DrawRegion",
+        "suffix": "-spinner",
+        "rotateSpeed": 3,
+        "spinSprite": true
+      },
+      {
+        "type": "DrawRegion",
+        "suffix": "-top"
+      }
+    ]
   },
-  {
-    "type": "DrawRegion",
-    "suffix": "-spinner",
-    "rotateSpeed": 3,
-    "spinSprite": true
-  },
-  {
-    "type": "DrawRegion",
-    "suffix": "-top"
-  }
-               ]
-
-     },
-	"hasPower": true,
-	"hasItems": true,
-     "liquidCapacity": 15,
-	"itemCapacity": 20,
-	"craftTime": 90,
-	"consumes": {
-		"power": 2,
-		"items": {
-			"items": [
-                "pyratite/6",
-                "spore-pod/3"                        
- 			]
-	  },
+  "hasPower": true,
+  "hasItems": true,
+  "itemCapacity": 20,
+  "craftTime": 90,
+  "consumes": {
+    "power": 2,
+    "items": {
+      "items": ["pyratite/6", "spore-pod/3"]
+    },
     "liquid": {
-        "liquid": "oil",
-        "amount": 0.2
+      "liquid": "oil",
+      "amount": 0.2
     }
-                }
-              ,
-	"requirements": [
-        "lead/100",
-        "titanium/80",
-        "silicon/85",
-        "metaglass/90"
-	],
-	"category": "crafting",
-	"research": "blast-mixer",
-	"outputItem": "blast-compound/8"
+  },
+  "requirements": ["lead/100", "titanium/80", "silicon/85", "metaglass/90"],
+  "category": "crafting",
+  "research": "blast-mixer",
+  "outputItem": "blast-compound/8"
 }

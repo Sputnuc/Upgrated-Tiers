@@ -2,7 +2,6 @@
 	"type": "NuclearReactor",
 	"health": 6200,
 	"itemCapacity": 45,
-	"liquidCapacity": 45,
 	"size": 5,
 	"ambientSound": "hum",
 	"ambientSoundVolume": 0.35,
