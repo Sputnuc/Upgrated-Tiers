@@ -1,0 +1,30 @@
+{
+  "type": "Wall",
+  "size": 5,
+  "health": 2750,
+  "armor": 7,
+  "baseExplosiveness": 25,
+  "research": "metaglass-wall-gigantic",
+  "category": "defense",
+  "buildCostMultiplier": 1.5,
+  "requirements": ["lead/175", "metaglass/250", "titanium/45"],
+  "destroyBullet": {
+    "type": "BasicBulletType",
+    "instantDisappear": true,
+    "damage": 0,
+    "fragBullet": {
+      "type": "BasicBulletType",
+      "width": 3,
+      "height": 5,
+      "speed": 6,
+      "lifetime": 16,
+      "damage": 14,
+      "splashDamage": 10,
+      "splashDamageRadius": 10,
+      "collidesGround": true,
+      "pierceArmor": true
+    },
+    "fragBullets": 16
+  },
+  "floating": true
+}

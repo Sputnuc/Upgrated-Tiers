@@ -1,0 +1,11 @@
+{
+  "type": "Wall",
+  "size": 5,
+  "health": 9375,
+  "armor": 4,
+  "research": "graphite-wall-gigantic",
+  "category": "defense",
+  "buildCostMultiplier": 5,
+  "requirements": ["graphite/375", "silicon/75"],
+  "floating": true
+}

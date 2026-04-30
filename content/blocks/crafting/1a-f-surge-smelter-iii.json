@@ -21,18 +21,18 @@
   "hasPower": true,
   "hasItems": true,
   "itemCapacity": 50,
-  "craftTime": 150,
+  "craftTime": 300,
   "craftEffect": "smeltsmoke",
   "updateEffect": "none",
   "consumes": {
     "power": 15,
     "items": {
       "items": [
-        "silicon/14",
-        "titanium/14",
-        "thorium/16",
-        "graphite/12",
-        "blast-compound/4"
+        "silicon/30",
+        "titanium/15",
+        "thorium/10",
+        "graphite/40",
+        "blast-compound/5"
       ]
     },
     "liquid": {
@@ -54,5 +54,5 @@
     "parent": "1a-f-surge-smelter-ii",
     "objectives": ["desolateRift"]
   },
-  "outputItem": "surge-alloy/21"
+  "outputItem": "surge-alloy/20"
 }

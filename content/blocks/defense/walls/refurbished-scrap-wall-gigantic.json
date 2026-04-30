@@ -1,0 +1,11 @@
+{
+  "type": "Wall",
+  "size": 4,
+  "scaledHealth": 330,
+  "armor": 3,
+  "research": "refurbished-scrap-wall-huge",
+  "category": "defense",
+  "buildCostMultiplier": 2.4,
+  "requirements": ["copper/96", "lead/96", "scrap/192"],
+  "placeableLiquid": true
+}

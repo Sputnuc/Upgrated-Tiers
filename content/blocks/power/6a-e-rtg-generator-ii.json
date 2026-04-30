@@ -15,11 +15,14 @@
   },
   "hasItems": true,
   "itemCapacity": 30,
-  "itemDuration": 400,
+  "itemDuration": 420,
   "consumes": {
     "itemRadioactive": {}
   },
   "minItemEfficiency": 0.1,
+  "itemDurationMultipliers": {
+    "phase-fabric": 20
+  },
   "requirements": [
     "lead/250",
     "silicon/275",
@@ -32,8 +35,5 @@
     "parent": "rtg-generator",
     "objectives": ["thorium-reactor"]
   },
-  "loopSound": "hum",
-  "ambientSound": "machine",
-  "loopSoundVolume": 0.5,
-  "ambientSoundVolume": 0.25
+
 }

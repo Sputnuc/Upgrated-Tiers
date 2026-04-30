@@ -1,0 +1,13 @@
+{
+  "type": "Wall",
+  "size": 4,
+  "health": 5440,
+  "lightningChance": 0.04,
+  "lightningDamage": 4,
+  "lightningLength": 6,
+  "research": "silicon-wall-huge",
+  "category": "defense",
+  "buildCostMultiplier": 4,
+  "requirements": ["silicon/160"],
+  "placeableLiquid": true
+}

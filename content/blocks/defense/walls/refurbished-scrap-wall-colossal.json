@@ -1,0 +1,11 @@
+{
+  "type": "Wall",
+  "size": 5,
+  "scaledHealth": 330,
+  "armor": 3,
+  "research": "refurbished-scrap-wall-gigantic",
+  "category": "defense",
+  "buildCostMultiplier": 3,
+  "requirements": ["copper/175", "lead/175", "scrap/325", "graphite/65"],
+  "floating": true
+}

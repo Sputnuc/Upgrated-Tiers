@@ -1,0 +1,30 @@
+{
+  "type": "Wall",
+  "size": 1,
+  "health": 110,
+  "armor": 7,
+  "baseExplosiveness": 2,
+  "research": "silicon-wall",
+  "category": "defense",
+  "buildCostMultiplier": 0.6,
+  "requirements": ["lead/4", "metaglass/7"],
+  "destroyBullet": {
+    "type": "BasicBulletType",
+    "instantDisappear": true,
+    "damage": 0,
+    "fragBullet": {
+      "type": "BasicBulletType",
+      "width": 3,
+      "height": 5,
+      "speed": 4,
+      "lifetime": 16,
+      "damage": 6,
+      "splashDamage": 2,
+      "splashDamageRadius": 10,
+      "collidesGround": true,
+      "pierceArmor": true
+    },
+    "fragBullets": 8
+  },
+  "placeableLiquid": true
+}

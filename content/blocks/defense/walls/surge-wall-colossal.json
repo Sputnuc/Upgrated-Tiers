@@ -1,0 +1,11 @@
+{
+  "type": "Wall",
+  "size": 5,
+  "health": 23000,
+  "research": "surge-wall-gigantic",
+  "category": "defense",
+  "buildCostMultiplier": 5,
+  "lightningChance": 0.05,
+  "requirements": ["thorium/45", "surge-alloy/225"],
+  "floating": true
+}

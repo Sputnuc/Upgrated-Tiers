@@ -1,0 +1,11 @@
+{
+  "type": "Wall",
+  "size": 3,
+  "health": 8280,
+  "research": "surge-wall-large",
+  "category": "defense",
+  "buildCostMultiplier": 3,
+  "lightningChance": 0.05,
+  "requirements": ["surge-alloy/63"],
+  "placeableLiquid": true
+}

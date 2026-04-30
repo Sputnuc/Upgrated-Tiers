@@ -1,0 +1,13 @@
+{
+  "type": "Wall",
+  "size": 4,
+  "health": 8000,
+  "research": "plastanium-wall-huge",
+  "category": "defense",
+  "insulated": true,
+  "absorbLasers": true,
+  "schematicPriority": 10,
+  "buildCostMultiplier": 4,
+  "requirements": ["metaglass/80", "plastanium/128"],
+  "placeableLiquid": true
+}

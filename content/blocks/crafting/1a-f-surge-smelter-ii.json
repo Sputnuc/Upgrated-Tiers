@@ -27,7 +27,7 @@
   "consumes": {
     "power": 8,
     "items": {
-      "items": ["silicon/6", "titanium/7", "graphite/8", "lead/8", "pyratite/1"]
+      "items": ["silicon/10", "titanium/7", "copper/10", "lead/12", "pyratite/1"]
     }
   },
   "requirements": [
@@ -39,5 +39,5 @@
   ],
   "category": "crafting",
   "research": "surge-smelter",
-  "outputItem": "surge-alloy/8"
+  "outputItem": "surge-alloy/6"
 }

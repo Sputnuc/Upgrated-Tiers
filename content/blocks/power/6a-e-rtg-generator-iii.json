@@ -15,7 +15,7 @@
   },
   "hasItems": true,
   "itemCapacity": 40,
-  "itemDuration": 400,
+  "itemDuration": 630,
   "consumes": {
     "itemRadioactive": {}
   },

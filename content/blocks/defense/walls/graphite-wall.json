@@ -1,0 +1,11 @@
+{
+  "type": "Wall",
+  "size": 1,
+  "health": 375,
+  "armor": 4,
+  "research": "lead-wall",
+  "category": "defense",
+  "buildCostMultiplier": 2,
+  "requirements": ["graphite/12"],
+  "placeableLiquid": true
+}

@@ -1,0 +1,11 @@
+{
+  "type": "Wall",
+  "size": 3,
+  "health": 2520,
+  "armor": 2,
+  "research": "lead-wall-large",
+  "category": "defense",
+  "buildCostMultiplier": 3,
+  "requirements": ["lead/99"],
+  "placeableLiquid": true
+}

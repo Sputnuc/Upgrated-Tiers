@@ -1,0 +1,10 @@
+{
+  "type": "Wall",
+  "size": 5,
+  "health": 11000,
+  "research": "titanium-wall-gigantic",
+  "category": "defense",
+  "buildCostMultiplier": 5,
+  "requirements": ["titanium/225", "plastanium/45"],
+  "floating": true
+}

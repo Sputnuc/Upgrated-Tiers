@@ -1,0 +1,10 @@
+{
+  "type": "Wall",
+  "size": 4,
+  "health": 5120,
+  "research": "copper-wall-huge",
+  "category": "defense",
+  "buildCostMultiplier": 4,
+  "requirements": ["copper/128"],
+  "placeableLiquid": true
+}

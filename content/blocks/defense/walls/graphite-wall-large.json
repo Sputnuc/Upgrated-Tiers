@@ -1,0 +1,11 @@
+{
+  "type": "Wall",
+  "size": 2,
+  "health": 1500,
+  "armor": 4,
+  "research": "graphite-wall",
+  "category": "defense",
+  "buildCostMultiplier": 2,
+  "requirements": ["graphite/48"],
+  "placeableLiquid": true
+}

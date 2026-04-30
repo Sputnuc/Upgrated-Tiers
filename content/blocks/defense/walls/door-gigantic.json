@@ -1,0 +1,9 @@
+{
+  "type": "Door",
+  "size": 4,
+  "health": 6400,
+  "category": "defense",
+  "buildCostMultiplier": 4,
+  "requirements": ["silicon/64", "titanium/96"],
+  "placeableLiquid": true
+}

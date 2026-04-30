@@ -1,0 +1,30 @@
+{
+  "type": "Wall",
+  "size": 4,
+  "health": 1760,
+  "armor": 7,
+  "baseExplosiveness": 16,
+  "research": "metaglass-wall-huge",
+  "category": "defense",
+  "buildCostMultiplier": 1.2,
+  "requirements": ["lead/96", "metaglass/144"],
+  "destroyBullet": {
+    "type": "BasicBulletType",
+    "instantDisappear": true,
+    "damage": 0,
+    "fragBullet": {
+      "type": "BasicBulletType",
+      "width": 3,
+      "height": 5,
+      "speed": 5.5,
+      "lifetime": 16,
+      "damage": 12,
+      "splashDamage": 8,
+      "splashDamageRadius": 10,
+      "collidesGround": true,
+      "pierceArmor": true
+    },
+    "fragBullets": 14
+  },
+  "placeableLiquid": true
+}

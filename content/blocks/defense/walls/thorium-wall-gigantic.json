@@ -1,0 +1,10 @@
+{
+  "type": "Wall",
+  "size": 4,
+  "health": 12800,
+  "research": "thorium-wall-huge",
+  "category": "defense",
+  "buildCostMultiplier": 4,
+  "requirements": ["thorium/128"],
+  "placeableLiquid": true
+}

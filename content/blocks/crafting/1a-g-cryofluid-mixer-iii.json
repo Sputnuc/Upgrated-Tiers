@@ -36,12 +36,12 @@
   "rotateDraw": false,
   "rotate": true,
   "itemCapacity": 40,
-  "craftTime": 200,
+  "craftTime": 300,
   "outputsLiquid": true,
   "consumes": {
     "power": 7,
     "items": {
-      "items": ["titanium/13", "lead/8", "silicon/3"]
+      "items": ["titanium/13", "lead/3", "silicon/3"]
     },
     "liquid": {
       "liquid": "water",

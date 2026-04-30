@@ -1,0 +1,11 @@
+{
+  "type": "Wall",
+  "size": 2,
+  "scaledHealth": 330,
+  "armor": 3,
+  "research": "refurbished-scrap-wall",
+  "category": "defense",
+  "buildCostMultiplier": 1.2,
+  "requirements": ["copper/16", "lead/16", "scrap/40"],
+  "placeableLiquid": true
+}

@@ -1,0 +1,12 @@
+{
+  "type": "Wall",
+  "size": 3,
+  "health": 5400,
+  "research": "phase-wall-large",
+  "category": "defense",
+  "buildCostMultiplier": 3,
+  "chanceDeflect": 10,
+  "flashHit": true,
+  "requirements": ["thorium/36", "phase-fabric/63"],
+  "placeableLiquid": true
+}

@@ -1,0 +1,10 @@
+{
+  "type": "Wall",
+  "size": 3,
+  "health": 3960,
+  "research": "titanium-wall-large",
+  "category": "defense",
+  "buildCostMultiplier": 3,
+  "requirements": ["titanium/63"],
+  "placeableLiquid": true
+}

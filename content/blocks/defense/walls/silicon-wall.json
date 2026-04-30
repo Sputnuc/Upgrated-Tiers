@@ -1,0 +1,13 @@
+{
+  "type": "Wall",
+  "size": 1,
+  "health": 340,
+  "lightningChance": 0.04,
+  "lightningDamage": 4,
+  "lightningLength": 6,
+  "research": "graphite-wall",
+  "category": "defense",
+  "buildCostMultiplier": 2,
+  "requirements": ["silicon/8"],
+  "placeableLiquid": true
+}

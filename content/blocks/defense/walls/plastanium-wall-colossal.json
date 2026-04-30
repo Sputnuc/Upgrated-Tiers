@@ -1,0 +1,13 @@
+{
+  "type": "Wall",
+  "size": 5,
+  "health": 12500,
+  "research": "plastanium-wall-gigantic",
+  "category": "defense",
+  "insulated": true,
+  "absorbLasers": true,
+  "schematicPriority": 10,
+  "buildCostMultiplier": 5,
+  "requirements": ["metaglass/150", "plastanium/225", "thorium/45"],
+  "floating": true
+}
