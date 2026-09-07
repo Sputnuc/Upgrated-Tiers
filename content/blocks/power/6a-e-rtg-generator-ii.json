@@ -19,7 +19,7 @@
   "consumes": {
     "itemRadioactive": {}
   },
-  "minItemEfficiency": 0.1,
+  "minItemEfficiency": 0.2,
   "itemDurationMultipliers": {
     "phase-fabric": 20
   },

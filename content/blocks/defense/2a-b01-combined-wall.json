@@ -1,6 +1,6 @@
 {
   "type": "mendProjector",
-  "health": 7200,
+  "scaledHealth": 750,
   "size": 3,
   "buildCostMultiplier": 0.15,
   "absorbLasers": true,

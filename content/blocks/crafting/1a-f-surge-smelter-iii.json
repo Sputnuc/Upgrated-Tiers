@@ -20,7 +20,7 @@
   },
   "hasPower": true,
   "hasItems": true,
-  "itemCapacity": 50,
+  "itemCapacity": 120,
   "craftTime": 300,
   "craftEffect": "smeltsmoke",
   "updateEffect": "none",
@@ -29,8 +29,8 @@
     "items": {
       "items": [
         "silicon/30",
-        "titanium/15",
-        "thorium/10",
+        "titanium/25",
+        "thorium/15",
         "graphite/40",
         "blast-compound/5"
       ]

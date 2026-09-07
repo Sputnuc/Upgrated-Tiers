@@ -20,6 +20,9 @@
     "itemRadioactive": {}
   },
   "minItemEfficiency": 0.2,
+  "itemDurationMultipliers": {
+    "phase-fabric": 25
+  },
   "requirements": [
     "lead/500",
     "silicon/450",

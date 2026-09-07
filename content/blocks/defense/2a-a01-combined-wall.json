@@ -1,7 +1,7 @@
 {
   "type": "Wall",
   "size": 3,
-  "health": 4000,
+  "scaledHealth": 528,
   "category": "defense",
   "research": "titanium-wall-large",
   "requirements": ["copper/50", "lead/45", "titanium/50"]
