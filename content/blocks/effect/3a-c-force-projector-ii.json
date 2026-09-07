@@ -17,6 +17,7 @@
   "cooldownNormal": 2,
   "cooldownLiquid": 1.6,
   "cooldownBrokenBase": 0.45,
+  "timerUse": 300,
   "consumes": {
     "power": 12,
     "items": {
