@@ -13,13 +13,14 @@
   "phaseUseTime": 420,
   "solid": true,
   "radius": 400,
-  "cooldownNormal": 3.5,
-  "cooldownLiquid": 2,
-  "cooldownBrokenBase": 1.75,
+  "coolantConsumption": 0.5,
+  "cooldownNormal": 3,
+  "cooldownLiquid": 1.8,
+  "cooldownBrokenBase": 0.55,
   "consumes": {
     "power": 35,
     "items": {
-      "items": ["phase-fabric/4", "surge-alloy/4", "silicon/4"],
+      "items": ["phase-fabric/2", "surge-alloy/1", "silicon/4"],
       "optional": false
     }
   },

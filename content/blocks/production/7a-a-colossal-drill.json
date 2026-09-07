@@ -11,6 +11,7 @@
   "hasLiquids": true,
   "hardnessDrillMultiplier": 5,
   "liquidCapacity": 25,
+  "itemCapacity": 50,
   "expanded": true,
   "consumes": {
     "power": 25,

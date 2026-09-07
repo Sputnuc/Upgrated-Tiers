@@ -12,10 +12,11 @@
   "canOverdrive": true,
   "phaseUseTime": 400,
   "solid": true,
+  "coolantConsumption": 0.25,
   "radius": 200,
   "cooldownNormal": 2,
-  "cooldownLiquid": 1,
-  "cooldownBrokenBase": 1.75,
+  "cooldownLiquid": 1.6,
+  "cooldownBrokenBase": 0.45,
   "consumes": {
     "power": 12,
     "items": {
